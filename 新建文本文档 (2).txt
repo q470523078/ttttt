@@ -1,0 +1,10 @@
+ionic cordova plugin add cordova-plugin-file-opener2
+npm install --save @ionic-native/file-opener
+pdf π”√
+
+http://localhost:8100/#/recommend-search
+
+id: "28a878f2e6d744a489e81d33e87c8174"
+productFirstTypeId: "2"
+productSecondTypeId: ""
+type: "2"
